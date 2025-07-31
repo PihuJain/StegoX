@@ -1,0 +1,14 @@
+streamlit>=1.28.0
+pycryptodome>=3.19.0
+Pillow>=10.0.0
+numpy>=1.24.0
+openai-whisper>=20231117
+pydub>=0.25.1
+soundfile>=0.12.1
+ffmpeg-python>=0.2.0
+watchdog>=6.0.0
+numba>=0.60.0
+psutil>=7.0.0
+torch>=2.0.0
+torchaudio>=2.0.0
+pandas>=2.0.0
