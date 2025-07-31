@@ -74,6 +74,13 @@ android-app/local.properties
 android-app/.idea/
 android-app/*.iml
 android-app/app/*.iml
+android-app/.gradle/
+android-app/build/
+android-app/app/build/
+android-app/local.properties
+android-app/.idea/
+android-app/*.iml
+android-app/app/*.iml
 .DS_Store
 .AppleDouble
 .LSOverride
