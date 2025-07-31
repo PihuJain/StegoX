@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StegoX</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="loading">Loading...</string>
+    <string name="refresh_content_description">Refresh page</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="error_loading">Error loading page</string>
+    <string name="server_not_running_title">Server Not Running</string>
+    <string name="server_not_running_message">The Streamlit server is not currently running.\nPlease start the backend server and try again.</string>
+    <string name="reload_button">Reload</string>
+    <string name="server_instructions">Start your Streamlit server (default: http://localhost:8501)\nand tap the reload button or swipe down to refresh.\n\nTo change the server URL, update the STEGO_X_URL in WebModel.java</string>
+    <string name="error_icon_description">Server error icon</string>
+</resources>

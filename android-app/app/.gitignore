@@ -1,0 +1,19 @@
+# Build outputs
+/build
+/release
+
+# Generated files
+/generated
+
+# Intermediate files
+/intermediates
+
+# Test outputs
+/outputs
+
+# Local build cache
+/.transforms
+
+# NDK
+/obj
+/libs

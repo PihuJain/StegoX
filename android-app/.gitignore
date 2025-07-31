@@ -1,0 +1,67 @@
+# Built application files
+*.apk
+*.aar
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+
+# Gradle files
+.gradle/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio
+.idea/
+.navigation/
+captures/
+*.iml
+.externalNativeBuild/
+.cxx/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Keystore files (keep these secret!)
+*.keystore
+*.jks
+keystore.properties
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Backup files
+*.bak
+*.backup 
