@@ -1,6 +1,24 @@
 # StegoX - Secure Steganography Platform
 
+🏆 **Best Collaboration Award — PydroidX Hackathon** (Android Club, VIT Bhopal University)
+
+[![Live Demo](https://img.shields.io/badge/demo-stegox.vercel.app-black?logo=vercel)](https://stegox.vercel.app) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+
 A multi-modal steganography application that allows users to hide secret messages in images, audio files, and video files using advanced encryption and voice authentication.
+
+## About
+
+StegoX was built during **PydroidX**, a hackathon organized by the Android Club at VIT Bhopal University, where it won the **Best Collaboration Award**. It combines LSB steganography across images, audio, and video with AES-256 encryption and Whisper AI voice authentication, exposed through both a Streamlit web app and an Android client.
+
+## Live Demo
+
+🔗 [stegox.vercel.app](https://stegox.vercel.app) — deployment in progress, not live yet.
+
+## Hackathon
+
+- **Event**: PydroidX, organized by the Android Club at VIT Bhopal University
+- **Award**: Best Collaboration Award
+- **Story**: Two separate teams merged on the spot at the venue and built StegoX together under hackathon time pressure — read the [writeup on LinkedIn](https://www.linkedin.com/posts/activity-7466520739895246848-dyu5)
 
 ## Features
 
@@ -24,7 +42,7 @@ A multi-modal steganography application that allows users to hide secret message
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ChinmayaThakral/StegoX.git
+git clone https://github.com/PihuJain/StegoX.git
 cd StegoX
 ```
 
@@ -134,13 +152,21 @@ StegoX/
 4. Add tests if applicable
 5. Submit a pull request
 
+## Releases
+
+See the [Releases page](https://github.com/PihuJain/StegoX/releases) for tagged versions.
+
+## References
+
+- [Otto](https://github.com/KartikChugh/Otto) — referenced for README structure and presentation
+
 ## License
 
 This project is open source and available under the MIT License.
 
 ## Acknowledgments
 
-- PyDroidX 2025 Innovation Showcase
+- PydroidX Hackathon, Android Club — VIT Bhopal University (Best Collaboration Award)
 - OpenAI Whisper for voice recognition
 - Streamlit for the web framework
 - Android WebView for mobile support
